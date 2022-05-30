@@ -11,6 +11,7 @@ import Files.payload;
 public class postexample {
 
 	public static void main(String[] args) {
+		//This is an example
 		RestAssured.baseURI="https://rahulshettyacademy.com/";
 		String actualaddress="70 Summer walk, USA";
 		//Create a new address
